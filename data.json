@@ -1,0 +1,156 @@
+{
+	"id": 123,
+	"name": "Solution 1",
+	"isDeleted": false,
+	"updateDate": "2022-04-06T11:00:33.5223914Z",
+	"products": [
+		{
+			"type": "VARIANT",
+			"id": 11946,
+			"articleNr": "999999",
+			"source": "PIM",
+			"sourceId": "6031",
+			"masterCode": "9900001",
+			"masterLanguageCode": "en",
+			"productName": "Fire Product 1",
+			"productClassName": "Fire class",
+			"brandName": "Soudal",
+			"gtin": "5411183174214",
+			"isDeleted": false,
+			"updateDate": "2022-04-06T12:46:33.069782Z",
+			"assets": [
+				{
+					"id": 34978,
+					"type": "Image",
+					"subType": "Product shot",
+					"assetSource": "RDX",
+					"assetSourceId": "26763",
+					"assetCollection": "Main Image",
+					"market": "Netherlands",
+					"description": "Product shot solution 1",
+					"timeStamp": "2022-02-07T09:33:15.987Z",
+					"assetPropertyValues": [
+						{
+							"id": 46517,
+							"applicationId": "5",
+							"application": "Powerpoint/Word/screen JPG",
+							"extension": "JPG",
+							"fileName": "E0026763.jpg",
+							"youtubeURL": null,
+							"url": "https://soudalpdsqastore.blob.core.windows.net/soudal-productdatastore-assets-qa/asset/26763/E0026763.jpg"
+						}
+					]
+				}
+			]
+		},
+		{
+			"type": "VARIANT",
+			"id": 11947,
+			"articleNr": "999998",
+			"source": "PIM",
+			"sourceId": "6032",
+			"masterCode": "9900002",
+			"masterLanguageCode": "en",
+			"productName": "Fire Product 1",
+			"productClassName": "Fire class",
+			"brandName": "Soudal",
+			"gtin": "5411183174214",
+			"isDeleted": false,
+			"updateDate": "2022-04-06T12:46:33.069782Z",
+			"assets": [
+				{
+					"id": 34978,
+					"type": "Image",
+					"subType": "Product shot",
+					"assetSource": "RDX",
+					"assetSourceId": "26763",
+					"assetCollection": "Main Image",
+					"market": "Netherlands",
+					"description": "Product shot solution 1",
+					"timeStamp": "2022-02-07T09:33:15.987Z",
+					"assetPropertyValues": [
+						{
+							"id": 46517,
+							"applicationId": "5",
+							"application": "Powerpoint/Word/screen JPG",
+							"extension": "JPG",
+							"fileName": "E0026763.jpg",
+							"youtubeURL": null,
+							"url": "https://soudalpdsqastore.blob.core.windows.net/soudal-productdatastore-assets-qa/asset/26763/E0026763.jpg"
+						}
+					]
+				}
+			]
+		}
+	],
+	"attributeGroups": [
+		{
+			"id": 1,
+			"externalId": "1",
+			"title": "Fire",
+			"sortIndex": 1,
+			"attributes": [
+				{
+					"id": 900,
+					"source": "RDX",
+					"sourceId": "2",
+					"sortIndex": 1,
+					"type": "SingleSelect",
+					"key": "Filter 1",
+					"attributeName": "Translated name of filter 1",
+					"value": "Value 1 of filter 1",
+					"isDeleted": false,
+					"updateDate": "2022-04-06T11:00:33.5223914Z"
+				},
+				{
+					"id": 902,
+					"source": "RDX",
+					"sourceId": "2",
+					"sortIndex": 2,
+					"type": "SingleSelect",
+					"key": "Filter 2",
+					"attributeName": "Translated name of filter 2",
+					"value": "Value1 of filter 2",
+					"isDeleted": false,
+					"updateDate": "2022-04-06T11:00:33.5223914Z"
+				},
+				{
+					"id": 903,
+					"source": "RDX",
+					"sourceId": "2",
+					"sortIndex": 3,
+					"type": "String",
+					"key": "Filter 3",
+					"attributeName": "Translated name of filter 3",
+					"value": "Value string of filter 3",
+					"isDeleted": false,
+					"updateDate": "2022-04-06T11:00:33.5223914Z"
+				}
+			]
+		}
+	],
+	"assets": [
+		{
+			"id": 34978,
+			"type": "Image",
+			"subType": "Product shot",
+			"assetSource": "RDX",
+			"assetSourceId": "26763",
+			"assetCollection": "Main Image",
+			"market": "Netherlands",
+			"description": "Product shot solution 1",
+			"timeStamp": "2022-02-07T09:33:15.987Z",
+			"assetPropertyValues": [
+				{
+					"id": 46517,
+					"applicationId": "5",
+					"application": "Powerpoint/Word/screen JPG",
+					"extension": "JPG",
+					"fileName": "E0026763.jpg",
+					"youtubeURL": null,
+					"url": "https://soudalpdsqastore.blob.core.windows.net/soudal-productdatastore-assets-qa/asset/26763/E0026763.jpg"
+				}
+			]
+		}
+	]
+}
